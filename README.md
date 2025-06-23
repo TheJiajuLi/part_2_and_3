@@ -1,2 +1,2 @@
 # part_2_and_3
-Submission for my exercises for part 2 and 3(Full Stack 2025)
+Submission for my exercises 2.1-2.5 (Full Stack 2025)
