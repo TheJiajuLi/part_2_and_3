@@ -1,2 +1,2 @@
 # part_2_and_3
-Submission for my exercises 2.1-2.5 (Full Stack 2025)
+The repository for me submitting the part 2 and part 3 exercises.

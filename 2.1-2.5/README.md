@@ -1,1 +1,1 @@
-The repository for me submitting the part 2 and part 3 exercises.
+Submission for my excerises from part 2.1-2.5
