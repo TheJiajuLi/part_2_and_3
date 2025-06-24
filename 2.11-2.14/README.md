@@ -1,0 +1,1 @@
+Submission for my exercises part 2.6-2.10
